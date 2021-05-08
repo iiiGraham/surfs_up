@@ -2,7 +2,7 @@
 
 An analysis was performed on annual weather data for Oahu to determine the feasibility of opening a surf shop and ice cream shop at mulitple location on the island. 
 
-The business's decision makers are assuming Oahu is a good location for surfing and ice cream demand. To test this assumption they would like to know if the business will be able to operate consistently year-round or if weather trends such as cooler temperatures or extended periods of rain would negatively affect business.
+The business's decision makers are assuming Oahu is a good location for surfing and ice cream demand. To test this assumption, they would like to know if the business will be able to operate consistently year-round or if weather trends such as cooler temperatures or extended periods of rain would negatively affect business.
 
 Temperature and precipitation data was used to determine the potential effects of weather on business operations and expected demand for both surfing and ice cream. 
 
@@ -20,4 +20,4 @@ The following observations highlight the differences in weather trends for June 
 
 Based on the analysis of temperature distributions between June and December it is reasonable to assume the surf shop and ice cream shop could remain open year-round. If we assume ice cream sales are correlated with temperature, it is possible ice cream sales may dip slightly during December as temperatures drop. 
 
-Overall though, the temperature differnces are not significant enough to expect SurfsUp to experience seasonal declines in demand for either surfing or ice cream.
+Overall, the temperature differnces are not significant enough to expect SurfsUp to experience seasonal declines in demand for either surfing or ice cream.
